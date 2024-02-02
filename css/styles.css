@@ -257,13 +257,13 @@ ul {
   line-height: 1.71;
   letter-spacing: 0.42px;
 }
-
 .footer-link:hover {
   color: #2196f3;
 }
 .footer-link:focus {
   color: #2196f3;
 }
+
 .filters-items {
   font-weight: 500;
   font-size: 16px;
