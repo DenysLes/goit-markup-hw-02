@@ -7,10 +7,18 @@ ul {
 }
 /* Header */
 .header-link {
+  font-family: "Roboto", sans-serif;
+  color: #212121;
   font-size: 14px;
   font-weight: 500;
   line-height: normal;
   letter-spacing: 0.28px;
+}
+.header-link:hover {
+  color: #2196f3;
+}
+.header-link:focus {
+  color: #2196f3;
 }
 .logo {
   color: #000;
@@ -53,6 +61,10 @@ ul {
   background: #2196f3;
   color: #fff;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+.hero-button:hover {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background: #2196f3;
 }
 /* Our activity */
 .our-activity-section {
@@ -244,6 +256,13 @@ ul {
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.42px;
+}
+
+.footer-link:hover {
+  color: #2196f3;
+}
+.footer-link:focus {
+  color: #2196f3;
 }
 .filters-items {
   font-weight: 500;
