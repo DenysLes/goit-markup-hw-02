@@ -64,7 +64,7 @@ ul {
 }
 .hero-button:hover {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background: #2196f3;
+  color: #2196f3;
 }
 /* Our activity */
 .our-activity-section {
