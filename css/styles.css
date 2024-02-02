@@ -1,12 +1,13 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #212121;
+}
 ul {
   list-style-type: none;
 }
 /* Header */
 .header-link {
-  color: #212121;
-  font-family: Roboto;
   font-size: 14px;
-  font-style: normal;
   font-weight: 500;
   line-height: normal;
   letter-spacing: 0.28px;
@@ -15,7 +16,6 @@ ul {
   color: #000;
   font-family: Raleway;
   font-size: 26px;
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   letter-spacing: 0.78px;
@@ -24,7 +24,6 @@ ul {
   color: #2196f3;
   font-family: Raleway;
   font-size: 26px;
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   letter-spacing: 0.78px;
@@ -38,9 +37,8 @@ ul {
   text-align: center;
   font-family: Roboto;
   font-size: 44px;
-  font-style: normal;
   font-weight: 900;
-  line-height: 60px; /* 136.364% */
+  line-height: 1.36;
   letter-spacing: 2.64px;
   text-transform: uppercase;
 }
@@ -64,10 +62,7 @@ ul {
 .detail-list-item {
   width: 270px;
 
-  color: #212121;
-  font-family: Roboto;
   font-size: 14px;
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   letter-spacing: 0.42px;
@@ -79,20 +74,14 @@ ul {
   flex-shrink: 0;
 
   color: #757575;
-  font-family: Roboto;
   font-size: 14px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px; /* 171.429% */
+  line-height: 1.71;
   letter-spacing: 0.42px;
 }
 .punctuality-list-item {
   width: 270px;
 
-  color: #212121;
-  font-family: Roboto;
   font-size: 14px;
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   letter-spacing: 0.42px;
@@ -104,20 +93,14 @@ ul {
   flex-shrink: 0;
 
   color: #757575;
-  font-family: Roboto;
   font-size: 14px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px; /* 171.429% */
+  line-height: 1.71;
   letter-spacing: 0.42px;
 }
 .diligence-list-item {
   width: 270px;
 
-  color: #212121;
-  font-family: Roboto;
   font-size: 14px;
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   letter-spacing: 0.42px;
@@ -129,20 +112,15 @@ ul {
   flex-shrink: 0;
 
   color: #757575;
-  font-family: Roboto;
   font-size: 14px;
   font-style: normal;
-  font-weight: 400;
-  line-height: 24px; /* 171.429% */
+  line-height: 1.71;
   letter-spacing: 0.42px;
 }
 .technologie-list-item {
   width: 270px;
 
-  color: #212121;
-  font-family: Roboto;
   font-size: 14px;
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   letter-spacing: 0.42px;
@@ -154,30 +132,23 @@ ul {
   flex-shrink: 0;
 
   color: #757575;
-  font-family: Roboto;
   font-size: 14px;
-  font-style: normal;
   font-weight: 400;
-  line-height: 24px; /* 171.429% */
+  line-height: 1.71;
   letter-spacing: 0.42px;
 }
 .our-activity-title {
-  color: #212121;
   text-align: center;
-  font-family: Roboto;
+
   font-size: 36px;
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   letter-spacing: 1.08px;
 }
 /* Our team */
 .our-team-title {
-  color: #212121;
   text-align: center;
-  font-family: Roboto;
   font-size: 36px;
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   letter-spacing: 1.08px;
@@ -186,11 +157,7 @@ ul {
   background: #f5f4fa;
 }
 .product-designer-name {
-  color: #212121;
-  text-align: center;
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
   line-height: normal;
   letter-spacing: 0.48px;
@@ -198,39 +165,26 @@ ul {
 .product-designer-profession {
   color: #757575;
   text-align: center;
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
   line-height: normal;
   letter-spacing: 0.48px;
 }
 .frontend-developer-name {
-  color: #212121;
   text-align: center;
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
   line-height: normal;
   letter-spacing: 0.48px;
 }
 .frontend-developer-profession {
-  color: #757575;
   text-align: center;
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
   line-height: normal;
   letter-spacing: 0.48px;
 }
 .marketing-name {
-  color: #212121;
   text-align: center;
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
   line-height: normal;
   letter-spacing: 0.48px;
@@ -238,19 +192,13 @@ ul {
 .marketing-profession {
   color: #757575;
   text-align: center;
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
   line-height: normal;
   letter-spacing: 0.48px;
 }
 .ul-designer-name {
-  color: #212121;
   text-align: center;
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
   line-height: normal;
   letter-spacing: 0.48px;
@@ -258,10 +206,8 @@ ul {
 .ul-designer-profession {
   color: #757575;
   text-align: center;
-  font-family: Roboto;
+
   font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
   line-height: normal;
   letter-spacing: 0.48px;
 }
@@ -274,7 +220,6 @@ ul {
   color: #fff;
   font-family: Raleway;
   font-size: 26px;
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   letter-spacing: 0.78px;
@@ -283,18 +228,14 @@ ul {
   color: #2196f3;
   font-family: Raleway;
   font-size: 26px;
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   letter-spacing: 0.78px;
 }
 .footer-text {
   color: #fff;
-  font-family: Roboto;
   font-size: 14px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px; /* 171.429% */
+  line-height: 1.71;
   letter-spacing: 0.42px;
 }
 .footer-link {
@@ -302,15 +243,11 @@ ul {
   height: 21px;
   flex-shrink: 0;
   color: rgba(255, 255, 255, 0.6);
-  font-family: Roboto;
   font-size: 14px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px; /* 171.429% */
+  line-height: 1.71;
   letter-spacing: 0.42px;
 }
 .filters-items {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.625;
@@ -319,7 +256,6 @@ ul {
   color: #212121;
 }
 .portfolio-product-mame {
-  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
@@ -327,8 +263,6 @@ ul {
   color: #212121;
 }
 .portfolio-product {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.875;
   letter-spacing: 0.03em;
