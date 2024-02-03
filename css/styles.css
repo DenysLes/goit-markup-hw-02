@@ -17,6 +17,17 @@ ul {
   line-height: normal;
   letter-spacing: 0.28px;
 }
+
+  .header-link-acnt{
+    width: 135px;
+height: 16px;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 14px;
+letter-spacing: 0.02em;
+color: #2196f3;
+  }
+
 .header-link-accent {
   font-family: "Roboto", sans-serif;
   color: #2196f3;
