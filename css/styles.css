@@ -206,6 +206,7 @@ color: #757575;
   background: #f5f4fa;
 }
 .product-designer-name {
+  text-align: center;
   font-size: 16px;
   font-weight: 500;
   line-height: normal;
@@ -226,6 +227,7 @@ color: #757575;
   letter-spacing: 0.48px;
 }
 .frontend-developer-profession {
+  color: #757575;
   text-align: center;
   font-size: 16px;
   line-height: normal;
