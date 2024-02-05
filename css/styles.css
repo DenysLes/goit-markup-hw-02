@@ -98,7 +98,7 @@ background-color: var(--dark-bg-color);
   font-size: 44px;
   font-weight: 900;
   line-height: 1.36;
-  letter-spacing: 2.64px;
+letter-spacing: 0.06em;
   text-transform: uppercase;
 }
 .hero-button {
@@ -204,7 +204,7 @@ background-color: var(--dark-bg-color);
   letter-spacing: 1.08px;
 }
 .our-team-section {
-  background: var(--secondary-bg-color)
+  background: var(--secondary-bg-color);
 }
 .product-designer-name {
   color: var(--main-text-color);
@@ -267,7 +267,7 @@ background-color: var(--dark-bg-color);
 
 /* Footer */
 .footer-saction {
-background:var(--dark-bg-color) 
+background:var(--dark-bg-color) ;
 }
 .logo-footer {
   text-decoration: none;
