@@ -151,7 +151,7 @@ background-color: var(--dark-bg-color);
   height: 48px;
   flex-shrink: 0;
 
-  color: var(--secondary-text-color)
+  color: var(--secondary-text-color);
   line-height: 1.71;
   letter-spacing: 0.42px;
 }
@@ -167,7 +167,7 @@ background-color: var(--dark-bg-color);
   height: 48px;
   flex-shrink: 0;
 
-  color: var(--secondary-text-color)
+  color: var(--secondary-text-color);
   line-height: 1.71;
   letter-spacing: 0.42px;
 }
