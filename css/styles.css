@@ -88,6 +88,14 @@ ul {
   background-color: var(--dark-bg-color);
 }
 .hero-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36364;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
   color: #fff;
   text-align: center;
   font-family: var(--main-font);
@@ -115,19 +123,19 @@ ul {
 }
 
 .detail-list-item {
-  width: 270px;
+  font-family: var(--main-font);
   font-weight: 700;
   line-height: normal;
-  letter-spacing: 0.42px;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: var(--main-text-color);
+  width: 270px;
 }
 .detail-text {
+  font-family: var(--main-font);
   width: 270px;
-  height: 72px;
   flex-shrink: 0;
-
   color: var(--secondary-text-color);
-  line-height: 1.71;
   letter-spacing: 0.42px;
 }
 .punctuality-list-item {
@@ -139,11 +147,8 @@ ul {
 }
 .punctuality-text {
   width: 270px;
-  height: 48px;
   flex-shrink: 0;
-
   color: var(--secondary-text-color);
-  line-height: 1.71;
   letter-spacing: 0.42px;
 }
 .diligence-list-item {
@@ -155,11 +160,8 @@ ul {
 }
 .diligence-text {
   width: 270px;
-  height: 48px;
   flex-shrink: 0;
-
   color: var(--secondary-text-color);
-  line-height: 1.71;
   letter-spacing: 0.42px;
 }
 .technologie-list-item {
@@ -171,11 +173,8 @@ ul {
 }
 .technologies-text {
   width: 270px;
-  height: 72px;
   flex-shrink: 0;
-
   color: var(--secondary-text-color);
-  line-height: 1.71;
   letter-spacing: 0.42px;
 }
 .our-activity-title {
@@ -285,6 +284,7 @@ ul {
   letter-spacing: 0.42px;
 }
 .footer-link {
+  font-style: normal;
   text-decoration: none;
   width: 231px;
   height: 21px;
