@@ -14,11 +14,10 @@ body {
   font-size: 14px;
   letter-spacing: 0.03em;
   line-height: 1.71;
-  letter-spacing: 0.03em;
   color: var(--main-text-color);
 }
 ul {
-  list-style-type: none;
+  list-style: none;
 }
 /* Header */
 .header-link {
@@ -37,7 +36,7 @@ ul {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   letter-spacing: 0.02em;
-  color: #757575;
+  color: var(--secondary-text-color);
 }
 
 .header-link-accent {
@@ -130,9 +129,9 @@ ul {
 .detail-list-item {
   width: 270px;
   height: 16px;
-  font-family: var(--main-font);
-  font-weight: 700;
+  color: var(--main-text-color);
   line-height: normal;
+  font-weight: 700;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--main-text-color);
