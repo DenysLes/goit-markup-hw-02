@@ -122,64 +122,92 @@ ul {
   background: var(--main-bg-color);
 }
 
+.detail {
+  width: 270px;
+  height: 98px;
+}
+
 .detail-list-item {
+  width: 270px;
+  height: 16px;
   font-family: var(--main-font);
   font-weight: 700;
   line-height: normal;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--main-text-color);
-  width: 270px;
 }
 .detail-text {
-  font-family: var(--main-font);
   width: 270px;
+  height: 72px;
+  font-weight: 400;
+  font-family: var(--main-font);
   flex-shrink: 0;
   color: var(--secondary-text-color);
   letter-spacing: 0.42px;
 }
+.punctuality {
+  width: 270px;
+  height: 74px;
+}
 .punctuality-list-item {
   width: 270px;
+  height: 16px;
   font-weight: 700;
   line-height: normal;
   letter-spacing: 0.42px;
   text-transform: uppercase;
 }
 .punctuality-text {
+  font-weight: 400;
   width: 270px;
+  height: 48px;
   flex-shrink: 0;
   color: var(--secondary-text-color);
   letter-spacing: 0.42px;
 }
+.diligence {
+  width: 270px;
+  height: 74px;
+}
 .diligence-list-item {
   width: 270px;
+  height: 16px;
   font-weight: 700;
   line-height: normal;
   letter-spacing: 0.42px;
   text-transform: uppercase;
 }
 .diligence-text {
+  font-weight: 400;
   width: 270px;
+  height: 48px;
   flex-shrink: 0;
   color: var(--secondary-text-color);
   letter-spacing: 0.42px;
 }
+.technologie {
+  width: 270px;
+  height: 98px;
+}
 .technologie-list-item {
   width: 270px;
+  height: 16px;
   font-weight: 700;
   line-height: normal;
   letter-spacing: 0.42px;
   text-transform: uppercase;
 }
 .technologies-text {
+  font-weight: 400;
   width: 270px;
+  height: 72px;
   flex-shrink: 0;
   color: var(--secondary-text-color);
   letter-spacing: 0.42px;
 }
 .our-activity-title {
   text-align: center;
-
   font-size: 36px;
   font-weight: 700;
   line-height: normal;
