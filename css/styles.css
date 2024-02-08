@@ -289,36 +289,30 @@ ul {
 .logo-footer {
   text-decoration: none;
   color: #fff;
-  font-family: Raleway;
+  font-family: var(--secondary-font);
   font-size: 26px;
   font-weight: 700;
   line-height: normal;
   letter-spacing: 0.78px;
 }
 .logo-footer-accent {
-  color: #2196f3;
-  font-family: Raleway bold;
+  color: var(--accent-color);
+  font-family: var(--secondary-font);
   font-size: 26px;
   font-weight: 700;
   line-height: normal;
   letter-spacing: 0.78px;
 }
 .footer-text {
-  font-style: normal;
   color: #fff;
-  font-size: 14px;
-  line-height: 1.71;
   letter-spacing: 0.42px;
 }
 .footer-link {
-  font-style: normal;
   text-decoration: none;
   width: 231px;
   height: 21px;
   flex-shrink: 0;
   color: rgba(255, 255, 255, 0.6);
-  font-size: 14px;
-  line-height: 1.71;
   letter-spacing: 0.42px;
 }
 .footer-link:hover {
