@@ -127,6 +127,7 @@ ul {
 }
 
 .detail-list-item {
+  font-size: 14px;
   width: 270px;
   height: 16px;
   color: var(--main-text-color);
@@ -137,6 +138,8 @@ ul {
   color: var(--main-text-color);
 }
 .detail-text {
+  font-size: 14px;
+  line-height: 1.71;
   width: 270px;
   height: 72px;
   font-weight: 400;
@@ -150,6 +153,7 @@ ul {
   height: 74px;
 }
 .punctuality-list-item {
+  font-size: 14px;
   width: 270px;
   height: 16px;
   font-weight: 700;
@@ -158,6 +162,8 @@ ul {
   text-transform: uppercase;
 }
 .punctuality-text {
+  font-size: 14px;
+  line-height: 1.71;
   font-weight: 400;
   width: 270px;
   height: 48px;
@@ -170,6 +176,7 @@ ul {
   height: 74px;
 }
 .diligence-list-item {
+  font-size: 14px;
   width: 270px;
   height: 16px;
   font-weight: 700;
@@ -178,6 +185,8 @@ ul {
   text-transform: uppercase;
 }
 .diligence-text {
+  font-size: 14px;
+  line-height: 1.71;
   font-weight: 400;
   width: 270px;
   height: 48px;
@@ -190,6 +199,7 @@ ul {
   height: 98px;
 }
 .technologie-list-item {
+  font-size: 14px;
   width: 270px;
   height: 16px;
   font-weight: 700;
@@ -198,6 +208,8 @@ ul {
   text-transform: uppercase;
 }
 .technologies-text {
+  font-size: 14px;
+  line-height: 1.71;
   font-weight: 400;
   width: 270px;
   height: 72px;
