@@ -316,11 +316,13 @@ ul {
   letter-spacing: 0.78px;
 }
 .footer-text {
+  text-decoration: none;
   font-style: normal;
   color: #fff;
   letter-spacing: 0.42px;
 }
 .footer-link {
+  text-decoration: none;
   font-style: normal;
   width: 231px;
   height: 21px;
